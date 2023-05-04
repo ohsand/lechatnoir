@@ -5830,6 +5830,10 @@ li.dropdown-submenu > ul.dropdown-menu > li.has-dropdown > ul.dropdown-menu.left
 	text-align: center;
 }
 
+#testimonial1, #testimonial5 {
+	background-color: #222222;
+}
+
 .testimonial-bordered {
 	border: 1px dashed #c69c6d;
 	padding: 28px;
