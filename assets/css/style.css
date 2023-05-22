@@ -147,6 +147,7 @@ body {
 
 #herocontent {
 	padding: 30px;
+	max-width: 100%;
 }
 
 #herocontent h1 {
@@ -11802,4 +11803,10 @@ footer .footer--copyright {
 
 .nav-split li:last-child a {
 	margin-bottom: 0;
+}
+
+@media only screen and (max-width: 500px) {
+	#herocontent h1 {
+		font-size: 4em;
+	}
 }
